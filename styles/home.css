@@ -27,6 +27,20 @@
 }
 li {
     font-size: large;
-    border: 1px solid crimson;
     padding: 5px;
+}
+.liEspada {
+    font-size: large;
+    border: 2px solid aquamarine;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 1300px;
+    flex-wrap: wrap;
+
+}
+.list-group {
+    padding: 2rem;
+
 }
